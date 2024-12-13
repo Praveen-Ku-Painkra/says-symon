@@ -1,0 +1,35 @@
+body{
+  text-align: center;
+}
+.btns{
+  display: flex;
+  justify-content: center;
+}
+.btn{
+  height: 200px;
+  width: 200px;
+  border: 5px solid black;
+  border-radius: 20%;
+  margin: 10px;
+}
+.red{
+  background-color: red;
+}
+.yellow{
+  background-color: yellow;
+}
+.green{
+  background-color: green;
+}
+.purple{
+  background-color: purple;
+}
+.blink{
+  background-color: white;
+}
+.clicked{
+  background-color: cyan;
+}
+.gameOver{
+  background: red;
+}                                   
